@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "stm8s.h": "c",
+        "stm8s_gpio.h": "c",
+        "stdint.h": "c",
+        "stm8s_conf.h": "c",
+        "stm8s_clk.h": "c",
+        "stm8s_tim2.h": "c",
+        "stm8s_uart1.h": "c",
+        "ssd1306.h": "c",
+        "lcd.h": "c",
+        "stm8s_i2c.h": "c",
+        "wire.h": "c",
+        "stm8s_tim4.h": "c",
+        "delay_ms.h": "c",
+        "sk6812.h": "c",
+        "delay.h": "c"
+    }
+}
