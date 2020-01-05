@@ -23,3 +23,14 @@ sudo apt install build-essential
 ## Компилятор под Linux
 
 Для компиляции под Linux нужен компилятор [SDCC](http://sdcc.sourceforge.net/).
+
+## Программатор
+
+Использовался ST-Link V2 c дровами от сообщества, [источник](https://github.com/texane/stlink).
+
+## Микроконтроллер
+
+Проверено на:
+
+* [STM8S003F3U6TR](https://www.st.com/en/microcontrollers-microprocessors/stm8s003f3.html) в корпусе UFQFPN-20 3x3mm;
+* [STM8S103F3P6](https://www.st.com/en/microcontrollers-microprocessors/stm8s103f3.html) в корпусе TSSOP-20.
